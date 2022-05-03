@@ -5,7 +5,6 @@ A clone of Moodle created in ASP.NET.
 ## Features
 
   - Complete user authentication and roles system
-  - Payments
   - Courses
   - Attendance
   - Exams
